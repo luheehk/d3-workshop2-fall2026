@@ -70,11 +70,11 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+>At the 2025 Japanese Grand Prix, Lance Stroll had a different tyre strategy from the winner, Max Verstappen. Stroll used three sets of tyres, while Verstappen used only two. The chart clearly shows Stroll's extra pit stop and different tyre choices.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+>The race trace shows how Lando Norris stayed close to Max Verstappen throughout the 2025 Japanese Grand Prix. Unlike a lap time chart, it shows how small time differences add up and how the gap between drivers changes during the race.
 
 **Bonus** (optional): which race did you add, and why?
 
