@@ -65,9 +65,16 @@
     <!-- D3.js Library -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <!-- Custom D3.js script to visualize charts -->
-    <script type="module" src="js/demo.js"></script>
+    <!-- <script type="module" src="js/demo.js"></script>
     <script type="module" src="js/participation.js"></script>
-    <script type="module" src="js/assignment.js"></script>
+    <script type="module" src="js/assignment.js"></script> -->
+
+    <script type="module">
+    await import('./js/data.js');
+    await import('./js/demo.js');
+    await import('./js/participation.js');
+    await import('./js/assignment.js');
+</script>
 </body>
 
 </html>
